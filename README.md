@@ -12,6 +12,7 @@ For use with Ender 5 Plus. A good baseline if you've upgraded to <a href="https:
 
 In development:
 - <a href="https://github.com/bigtreetech/BTT-WRITER-V1.0">ESP-01S</a>
+- <a href="https://github.com/bigtreetech/smart-filament-detection-module">BTT Smart Filament Detection</a>
 - OctoPrint via GPIO pins and TFT, though I'm guessing I'll later make a separate repository (can't seem to find the last one on here)
 
 ## Marlin 3D Printer Firmware
