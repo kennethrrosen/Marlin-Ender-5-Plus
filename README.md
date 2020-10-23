@@ -9,11 +9,13 @@ For use with Ender 5 Plus. A good baseline if you've upgraded to <a href="https:
 - <a href="https://github.com/bigtreetech/BTT-Expansion-module">BTT EEPROM</a>
 - <a href="https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0">BTT UPS 24V</a>
 - <a href="https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2">BTT Relay V1.2</a>
+- <a href="https://github.com/bigtreetech/smart-filament-detection-module">BTT Smart Filament Detection</a>
 
 In development:
 - <a href="https://github.com/bigtreetech/BTT-WRITER-V1.0">ESP-01S</a>
-- <a href="https://github.com/bigtreetech/smart-filament-detection-module">BTT Smart Filament Detection</a>
 - OctoPrint via GPIO pins and TFT, though I'm guessing I'll later make a separate repository (can't seem to find the last one on here)
+
+**PLEASE NOTE:** Offsets are for a <a href="https://www.thingiverse.com/thing:4564011">modified extruder cooling array</a> on a Micro Swiss Direct Drive.
 
 ## Marlin 3D Printer Firmware
 
