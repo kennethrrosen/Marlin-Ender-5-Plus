@@ -3,13 +3,14 @@
 For use with Ender 5 Plus. Big thanks to @KerseyFabrications. A good baseline if you've upgraded to <a href="https://github.com/bigtreetech">BIGTREETECH</a> hardware. Specifically, this firmware incorporates changes to accept several popular BIGTREETECH aftermarket modifications and add-ons:
 
 - BTT SKR 1.4v Turbo
-- <a href="https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver">MC2208</a>
+- <a href="https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver">TMC2208</a>
 - <a href="https://github.com/bigtreetech/BIGTREETECH-TFT24-V1.1">BTT TFT24</a>
 - <a href="https://github.com/bigtreetech/BIGTREETECH-S42B-V1.0">BTT S42B V2.0</a>
 - <a href="https://github.com/bigtreetech/BTT-Expansion-module">BTT EEPROM</a>
 - <a href="https://github.com/bigtreetech/BIGTREETECH-MINI-UPS-V2.0">BTT UPS 24V</a>
 - <a href="https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2">BTT Relay V1.2</a>
 - <a href="https://github.com/bigtreetech/smart-filament-detection-module">BTT Smart Filament Detection</a>
+- <a href="https://github.com/bigtreetech/BTT-SD-TF-Cloud-V1.0">BTT TF Cloud</a>
 
 In development:
 - <a href="https://github.com/bigtreetech/BTT-WRITER-V1.0">ESP-01S</a>
