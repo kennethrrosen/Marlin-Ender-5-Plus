@@ -1,6 +1,8 @@
 # Marlin 2.0.x 3D Printer Firmware Configured for Creality Ender 5 Plus && BTT Suite
 
-For use with Ender 5 Plus. Big thanks to @KerseyFabrications. A good baseline if you've upgraded to <a href="https://github.com/bigtreetech">BIGTREETECH</a> hardware. Specifically, this firmware incorporates changes to accept several popular BIGTREETECH aftermarket modifications and add-ons:
+<a href="https://ibb.co/RPD8n4Y"><img src="https://i.ibb.co/bLKthRQ/20210207-112901.jpg" alt="Modified Ender 5 Plus" border="0" align="center"/></a>
+
+For use with the Ender 5 Plus. (The photo above is of my rig, modified to reduce the Z-axis to 250.) Big thanks to @KerseyFabrications. A good baseline if you've upgraded to <a href="https://github.com/bigtreetech">BIGTREETECH</a> hardware. Specifically, this firmware incorporates changes to accept several popular BIGTREETECH aftermarket modifications and add-ons:
 
 - BTT SKR 1.4v Turbo
 - <a href="https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver">TMC2208</a>
